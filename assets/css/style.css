@@ -1,0 +1,18 @@
+.bg-bluel {
+    background-color: #3b60a6;
+}
+.bg-gray {
+    background-color: gray;
+}
+.profile-image {
+    background-image: url(../images/portrait.jpg.jpg);
+    background-size: cover;
+    width: 15rem;
+    height: 15rem;
+    border: solid 4px #3b60a6;
+    margin-top: 10px;
+}
+.nav-links:hover {
+    color: black;
+
+}
